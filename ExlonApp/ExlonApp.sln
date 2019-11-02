@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExlonApp", "ExlonApp.csproj", "{3AB7184A-C30D-4CB5-A0D2-D2DF967EB0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB7184A-C30D-4CB5-A0D2-D2DF967EB0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB7184A-C30D-4CB5-A0D2-D2DF967EB0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB7184A-C30D-4CB5-A0D2-D2DF967EB0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB7184A-C30D-4CB5-A0D2-D2DF967EB0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D0ED07-2443-413F-9208-DAEFC5533F72}
+	EndGlobalSection
+EndGlobal
