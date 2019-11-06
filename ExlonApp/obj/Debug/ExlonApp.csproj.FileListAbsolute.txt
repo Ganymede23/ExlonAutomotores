@@ -1,0 +1,10 @@
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\bin\Debug\ExlonApp.exe.config
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\bin\Debug\ExlonApp.exe
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\bin\Debug\ExlonApp.pdb
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.csprojAssemblyReference.cache
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.Form1.resources
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.Properties.Resources.resources
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.csproj.GenerateResource.cache
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.csproj.CoreCompileInputs.cache
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.exe
+C:\Bases de Datos\ExlonAutomotores\ExlonApp\obj\Debug\ExlonApp.pdb
